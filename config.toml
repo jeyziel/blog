@@ -1,0 +1,88 @@
+baseurl         =  "jeyzielgama.github.io"
+theme           = "casper-two"
+languageCode    = "pt-BR"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+NewContentEditor = "code"
+
+[params]
+  title       = "Jeyziel Gama"
+  subtitle    = "Sejam Bem Vindos(as) ao meu cantinho"
+  copyright   = "© 2019"
+
+  cover       = "img/locked.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "jeyzielgama"
+  githubName = "jeyzielgama"
+  linkedinName = "jeyzielgama"
+  mediumName = ""
+
+
+  orgName = "Jeyziel Gama"
+  orgWebsite = "https://twitter.com/jeyzielgama"
+  orgDescription = "Here is a description placeholder for your org"
+
+  showSupport = true
+
+  author = "Jeyziel Gama"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Your description here"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Matemática"
+  url = "/categories/math/"
+  weight = 103
+
+[[menu.main]]
+  name = "Categorias"
+  url = "/categories/"
+  weight = 9
+
+[[menu.main]]
+  name = "Machine learning"
+  url = "/categories/machine-learning/"
+  weight = 104
+
+
+[[menu.main]]
+  name = "Estatística"
+  url = "categories/statitics/"
+  weight = 105
+
+[[menu.main]]
+  name = "Book Reviews"
+  url = "categories/book-reviews/"
+  weight = 99
+
+[[menu.main]]
+    name = "Colinhas"
+    url = "/categories/notes/"
+    weight = 99
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 10
+
