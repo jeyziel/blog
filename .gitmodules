@@ -1,0 +1,12 @@
+[submodule "themes/hugo-future-imperfect-slim"]
+	path = themes/hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "themes/hugo-swift-theme"]
+	path = themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "themes/future"]
+	path = themes/future
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
+[submodule "themes/casper-two"]
+	path = themes/casper-two
+	url = https://github.com/eueung/hugo-casper-two.git
