@@ -6,5 +6,6 @@ categories:
     - math
 tags:
    - matemática
+   - algebra
 ---
 

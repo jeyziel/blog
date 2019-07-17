@@ -1,7 +1,7 @@
-baseurl         =  "jeyzielgama.github.io"
+baseurl         =  "https://jeyziel.github.io/"
 theme           = "casper-two"
 languageCode    = "pt-BR"
-disqusShortname = ""
+disqusShortname = "jeyziel-github-io"
 paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
@@ -68,12 +68,12 @@ NewContentEditor = "code"
 
 [[menu.main]]
   name = "Estatística"
-  url = "categories/statitics/"
+  url = "/categories/statitics/"
   weight = 105
 
 [[menu.main]]
   name = "Book Reviews"
-  url = "categories/book-reviews/"
+  url = "/categories/book-reviews/"
   weight = 99
 
 [[menu.main]]
